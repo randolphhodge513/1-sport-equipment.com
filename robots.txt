@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /sporting_18/
+Sitemap: http://www.1-sport-equipment.com/sitemap.xml 
